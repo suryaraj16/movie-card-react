@@ -29,3 +29,4 @@ src/
 ```bash
 npm install
 npm run dev
+<img width="1920" height="1080" alt="Screenshot (349)" src="https://github.com/user-attachments/assets/fc102d6d-7ba7-4586-858c-a667754a19f4" />
