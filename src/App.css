@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background: linear-gradient(to right, #f4f6f8, #eef1f5);
+}
+
+.app-container {
+  padding: 40px;
+  text-align: center;
+}
+
+.app-title {
+  margin-bottom: 30px;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 30px;
+  max-width: 1000px;
+  margin: auto;
+}
