@@ -6,6 +6,7 @@ type MovieCardProps = {
   rating: number;
   poster: string;
 };
+// Updated for submission
 
 const MovieCard = ({ title, year, rating, poster }: MovieCardProps) => {
   return (
